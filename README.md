@@ -22,4 +22,4 @@ I specialize in building reliable end-to-end ELT/ETL pipelines, analytical data 
 
 ### Connect with Me
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@artmlizun5)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/@artemlizun5)
