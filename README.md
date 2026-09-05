@@ -2,8 +2,6 @@
 
 **Data Engineer | DWH & Analytics Engineer**
 
-I specialize in building reliable end-to-end ELT/ETL pipelines, analytical data warehouses (DWH), and automated data transformation workflows. My focus is on robust data architecture, dimensional modeling, data quality assurance, and containerized deployment.
-
 ---
 
 ### Tech Stack
