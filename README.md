@@ -1,6 +1,6 @@
 # Hi there, I'm Artem 👋
 
-**Data Engineer | DWH & Analytics Engineer**
+**Junior Data Engineer | DWH & Analytics Engineer**
 
 ---
 
