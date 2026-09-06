@@ -10,14 +10,6 @@
 
 ---
 
-### Core Competencies
-
-* **Data Engineering & Pipelines:** Incremental loading patterns (High Watermark), orchestration via Apache Airflow, transaction-safe staging ingestion.
-* **Data Warehousing & Modeling:** Kimball Dimensional Modeling (Star/Snowflake schemas, Fact & Dimension tables), SCD Type 2 historicization using dbt snapshots.
-* **Data Quality & Governance:** Automated dbt schema tests, uniqueness/referential integrity validation, accepted value assertions.
-
----
-
 ### Contact with Me
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/artemlizun5)
